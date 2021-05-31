@@ -1,0 +1,15 @@
+Package: com.saad.iphone11camera
+Version: 0.0.5
+Architecture: iphoneos-arm
+Maintainer: moodysaad1999@gmail.com
+Depends: mobilesubstrate
+Filename: ./debs/com.saad.iphone11camera_0.0.5-1+debug_iphoneos-arm.deb
+Size: 4,040
+MD5sum: 74ddb54b45c2f5fab33d9d902df6753e
+SHA1: 1e947bbd240fcf20bfb80450c6f69a041b5aea56
+SHA256: 4f0f565f66cb39bb62cc56bb4a99bd27f154d555124ff5ff6267c48aab16013b
+Section: Tweaks
+Description: make your older phones have iphone 11 camera working on ios 13 to 14.5.1.
+Author: moesaad
+Name: iphone11camera
+
